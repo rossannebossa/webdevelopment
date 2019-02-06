@@ -1,0 +1,466 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie10 lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9]><html class="no-js lt-ie10" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>Get Involved | Greenpeace International</title>
+
+<script>
+//Campaign information
+</script>
+
+<!--Google Tag Manager -->
+<script>
+</script>
+<!-- End Google Tag Manager -->
+
+<meta name="keywords" content="Greenpeace" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" type="image/ico" href="https://secured.greenpeace.org/international/Templates/Planet3/Styles/Images/Icons/favicon.ico" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<link rel='stylesheet' id='bootstrap-css'  href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css?ver=4.0.0-alpha.6' type='text/css' media='all' />
+
+<style>
+.primary-cta-btn { display: inline-block; position: relative; font-family: "Roboto", sans-serif; text-decoration: none; color: #ffffff; font-size: 0.9em; font-size: 34px; line-height: 34px; font-weight: normal; padding: 0 24px; border-radius: 4px; border: 0; cursor: pointer; -webkit-transition: background-color 0.14s ease-in-out; transition: background-color 0.14s ease-in-out; }
+.primary-cta-btn:hover, .primary-cta-btn:focus { color: #ffffff; text-decoration: none; outline: none; }
+.primary-cta-btn:active { top: 1px; }
+/* Primary Call to action button */
+.primary-cta-btn { background-color: #2980b9; }
+.primary-cta-btn:hover, .primary-cta-btn:focus { background-color: #2574a8; }
+.primary-cta-btn:active { background-color: #2472a4; }
+input[type="text"]
+{
+display: block;
+	width: 100%;
+	padding: .5rem .75rem;
+	font-size: 1rem;
+	line-height: 1.25;
+	color: #464a4c;
+	background-color: #fff;
+	background-image: none;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	-webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+	transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+	-o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+	transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+	transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+	border: 1px solid #dedede;
+	border-radius: 0px;
+}
+.btn-primary { background: #F36D3A; border-color: #F36D3A; color: #ffffff; text-transform: uppercase; }
+.btn-primary:hover { background: #e02d00; border-color: #e02d00; }
+.btn-secondary { background: #86eee7; border-color: #86eee7; color: #000000; text-transform: uppercase; }
+.btn-secondary:hover { background: #9af9f3; border-color: #9af9f3; }
+.yellow-button { border-color: #FFD204; color: #301c01; background: #FFD204; text-transform: uppercase; }
+.yellow-button:hover { background-color: #fac235; border-color: #FFD204; color: #301c01; }
+.btn-green { background: #65cb00; color: #ffffff; }
+.btn-blue { background: #0EC2DE; border: solid 1px #064364; color: #064364; }
+.btn-blue:hover { background-color: #064364; color: #ffffff; }
+.styled-select select { background: transparent; padding: 5px; font-size: 16px; color: #ffffff; line-height: 1; border: 0; border-radius: 0; height: 34px; -webkit-appearance: none; width: 240px; }
+.styled-select select option { background: transparent; color: #000000; }
+.styled-select select:focus { outline: none; }
+.secondary-button { background: #9fd0c8; color: #0A3351; border: solid 1px #0A3351; text-transform: uppercase; font-weight: 500; }
+.secondary-button:hover { background: #0A3351; color: #ffffff; }
+.secondary-button:focus { outline: none; -webkit-box-shadow: none; box-shadow: none; }
+.secondary-button:active { background: #3B5C74; }
+.btn-transparent { background: transparent; color: #0A3351; border: solid 1px #0A3351; text-transform: uppercase; font-weight: 500; }
+.btn-transparent:hover { background: #0A3351; color: #ffffff; }
+.btn-transparent:focus { outline: none; -webkit-box-shadow: none; box-shadow: none; }
+.btn-transparent:active { background: #3B5C74; }
+h2 {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.en__field__input--select {
+  min-width: 200px !IMPORTANT;
+}
+body {background:none transparent;}
+@media (max-width: 575px) { .btn { padding: 0 15px; }
+	.btn.btn-small { font-size: 14px; height: 40px; line-height: 40px; }}
+@media (min-width: 768px) { .btn { padding: 0 15px; }
+	.btn.btn-medium { font-size: 16px; height: 38px; line-height: 38px; } }
+@media (min-width: 992px) { .btn { padding: 0 15px; }
+	.btn.btn-medium { font-size: 16px; height: 48px; line-height: 48px; } }
+@media (min-width: 1200px) { .btn { padding: 0 15px; }
+	.btn.btn-medium { font-size: 18px; height: 56px; line-height: 56px; } }
+.happy-point-block-wrap { height: 620px; width: 100%; position: relative; }
+.happy-point-block-wrap:before { content: " "; position: absolute; left: 0; top: 0; height: 100%; width: 100%; opacity: 0.6; }
+.happy-point-block-wrap p { font-family: roboto; font-size: 0.8rem; line-height: 1rem; color: #292B2C; }
+.happy-point-block-wrap form input, .happy-point-block-wrap form .custom-select { height: 42px; border-radius: 0; border-color: transparent; }
+@media (max-width: 575px) { .happy-point-block-wrap { height: 470px; padding-left: 15px; padding-right: 15px; }
+	.happy-point-block-wrap .pt-20 { padding-top: 100px; padding-left: 0; padding-right: 0; }
+	.happy-point-block-wrap h2 { font-size: 1.625rem; line-height: 2rem; margin-bottom: 24px; }
+	.happy-point-block-wrap h5 { font-size: 1rem; line-height: 1.5rem; }
+	.happy-point-block-wrap .subscriber-btn { margin-top: 0px; margin-bottom: 16px; width: 100%; padding: 10px; }
+	.happy-point-block-wrap p { text-align: left; }
+	.happy-point-block-wrap form input, .happy-point-block-wrap form .custom-select { margin-bottom: 16px; } }
+@media (min-width: 768px) { .happy-point-block-wrap { height: 470px; }
+	.happy-point-block-wrap .pt-20 { padding-top: 250px; padding-left: 0; padding-right: 0; }
+	.happy-point-block-wrap h2 { font-size: 1.75rem; line-height: 2.125rem; margin-bottom: 8px; }
+	.happy-point-block-wrap h5 { font-size: 1.125rem; line-height: 1.75rem; }
+	.happy-point-block-wrap .subscriber-btn { width: 100%; margin-top: 0px; margin-bottom: 16px; }
+	.happy-point-block-wrap p { text-align: center; } }
+@media (min-width: 992px) { .happy-point-block-wrap { height: 470px; }
+	.happy-point-block-wrap .pt-20 { padding-top: 260px; padding-left: 0; padding-right: 0; }
+	.happy-point-block-wrap h2 { font-size: 2.125rem; line-height: 2.125rem; margin-bottom: 24px; }
+	.happy-point-block-wrap h5 { font-size: 1.125rem; line-height: 1.5rem; }
+	.happy-point-block-wrap .subscriber-btn { margin-top: 0px; margin-bottom: 16px; width: 100%; height: 42px; line-height: 42px; }
+	.happy-point-block-wrap p { text-align: left; } }
+@media (min-width: 1200px) { .happy-point-block-wrap { height: 620px; width: 100%; position: relative; }
+	.happy-point-block-wrap:before { content: " "; position: absolute; left: 0; top: 0; height: 100%; width: 100%; opacity: 0.6; }
+	.happy-point-block-wrap .pt-20 { padding-top: 350px; }
+	.happy-point-block-wrap h2 { font-size: 2.25rem; }
+	.happy-point-block-wrap h5 { font-size: 1.125rem; }
+	.happy-point-block-wrap .subscriber-btn { margin-top: 0px; margin-bottom: 8px; width: 100%; height: 42px; line-height: 42px; }
+	.happy-point-block-wrap p { text-align: left; } }
+.custom-select
+{
+	border: 1px solid #fff;;
+	border-radius: 0px;
+}
+.en__field__input--select {
+    display: block;
+    width: 100%;
+    padding: .5rem .75rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    color: #464a4c;
+    background-color: #fff;
+    background-image: none;
+    
+    border: 1px solid #dedede;
+    border-radius: 0px;
+}
+</style>
+<meta name="title" content=""/>
+<meta property="og:title" content=""/>
+<meta property="og:description" content=""/>
+<meta name="description" content=""/>
+<meta property="og:image" content=""/>
+<link rel="canonical" href="https://act.greenpeace.org/page/33307/subscribe/1?locale=en-ZA"/>
+<meta property="og:url" content="https://act.greenpeace.org/page/33307/subscribe/1?locale=en-ZA"/>
+<link rel="image_src" href=""/>
+<link href='/ea-demo/frontend/pbAssets/build/css/enPage.css?v=3.49.0' rel='stylesheet' type='text/css' />
+<script src='/page/33307/campaigner/0/pagedata.js?locale=en-ZA'></script>
+<script src='/ea-demo/frontend/pbAssets/build/js/enPage.js?v=3.49.0'></script>
+</head>
+<body>
+    <!--Google Tag Manager (noscript) -->
+<noscript>
+</noscript>
+<!-- End Google Tag Manager (noscript) --><form method="post" action="/page/33307/subscribe/2" class="en__component en__component--page">
+	<input type="hidden" name="hidden" class="en__hiddenFields" value="">
+	<input type="hidden" name="sessionId" value="631e92f767dc4f9abdbc519ab0f2c273-server9796">
+
+	
+	<ul class="en__errorList">
+	</ul>
+
+		<div class="en__component en__component--row en__component--advrow">
+		<div class="en__component en__component en__component--column en__component--advcolumn col-lg-5 col-md-6" style="">
+		<div class="en__component en__component--copyblock"
+
+style="
+"
+>
+	<h1>Become a&nbsp;Volunteer</h1>
+
+	
+	
+</div>
+</div>
+</div>
+		<div class="en__component en__component--row en__component--advrow">
+		<div class="en__component en__component en__component--column en__component--advcolumn col-lg-12 col-md-12" style="">
+		<div class="en__component en__component--formblock" style="">
+	
+	
+			<div class="en__field en__field--text en__field--315911 en__field--firstName en__mandatory">
+	<label for="en__field_supporter_firstName" class="en__field__label" style="">First Name </label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_supporter_firstName" type="text" class="en__field__input en__field__input--text" name="supporter.firstName" value="" />
+	 </div>
+</div>
+	
+	
+	
+</div>
+</div>
+		<div class="en__component en__component en__component--column en__component--advcolumn col-lg-12 col-md-12" style="">
+		<div class="en__component en__component--formblock" style="">
+	
+	
+			<div class="en__field en__field--text en__field--319090 en__field--lastName en__mandatory">
+	<label for="en__field_supporter_lastName" class="en__field__label" style="">Last Name</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_supporter_lastName" type="text" class="en__field__input en__field__input--text" name="supporter.lastName" value="" />
+	 </div>
+</div>
+	
+	
+	
+</div>
+</div>
+		<div class="en__component en__component en__component--column en__component--advcolumn col-lg-12 col-md-12" style="">
+		<div class="en__component en__component--formblock" style="">
+	
+	
+			<div class="en__field en__field--text en__field--315915 en__field--emailAddress en__mandatory">
+	<label for="en__field_supporter_emailAddress" class="en__field__label" style="">Email</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_supporter_emailAddress" type="text" class="en__field__input en__field__input--text" name="supporter.emailAddress" value="" />
+	 </div>
+</div>
+	
+	
+	
+</div>
+</div>
+		<div class="en__component en__component en__component--column en__component--advcolumn col-lg-12 col-md-12" style="">
+		<div class="en__component en__component--formblock" style="">
+	
+	
+			<div class="en__field en__field--text en__field--315917 en__field--phoneNumber en__mandatory">
+	<label for="en__field_supporter_phoneNumber" class="en__field__label" style="">Telephone Number</label>
+	<div class="en__field__element en__field__element--text">
+		<input id="en__field_supporter_phoneNumber" type="text" class="en__field__input en__field__input--text" name="supporter.phoneNumber" value="" />
+	 </div>
+</div>
+	
+	
+	
+</div>
+</div>
+</div>
+		<div class="en__component en__component--row en__component--advrow">
+		<div class="en__component en__component en__component--column en__component--advcolumn col-lg-12 col-md-12" style="">
+		<div class="en__component en__component--formblock" style="">
+	
+	
+			<div class="en__field en__field--select en__field--315919 en__field--country en__mandatory">
+	<label for="en__field_supporter_country" class="en__field__label" style="">Country </label>
+	<div class="en__field__element en__field__element--select">
+		<select id="en__field_supporter_country" class="en__field__input en__field__input--select" name="supporter.country" >
+			<option value="Select  A Country">Select  A Country</option>
+		</select>
+	</div>
+</div>
+	
+	
+	
+</div>
+</div>
+		<div class="en__component en__component en__component--column en__component--advcolumn col-lg-12 col-md-12" style="">
+		<div class="en__component en__component--formblock" style="">
+	
+	
+			<div class="en__field en__field--select en__field--316742 en__field--city en__mandatory">
+	<label for="en__field_supporter_city" class="en__field__label" style="">City</label>
+	<div class="en__field__element en__field__element--select">
+		<select id="en__field_supporter_city" class="en__field__input en__field__input--select" name="supporter.city" >
+			<option value="">Select  A City</option>
+		</select>
+	</div>
+</div>
+	
+	
+	
+</div>
+</div>
+		<div class="en__component en__component en__component--column en__component--advcolumn col-lg-12 col-md-12" style="">
+		<div class="en__component en__component--formblock" style="">
+	
+	
+	
+	<div class="en__submit"><button style="">SUBMIT</button></div>
+	
+</div>
+</div>
+		<div class="en__component en__component en__component--column en__component--advcolumn col-lg-12 col-md-12" style="">
+</div>
+</div>
+</form><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<!--EN additional scripts-->
+
+<script>
+	$('.en__field--text').each(function(){
+
+		var input = $(this).find('input');
+
+
+		var label = $(this).find('label');
+		var labelText = label.text();
+		input.attr('placeholder', labelText);
+	});
+</script>
+
+<script>
+$('.en__field--email-ok input').prop('checked', true).parent().hide();
+$('.en__field--email-ok input').prop('checked', true).parent().hide();
+$('.en__field__label').hide();
+$('.en__field--emailAddress').addClass( 'col-lg-12 col-md-12' );
+$('.en__field--firstName').addClass( 'col-lg-12 col-md-12' );
+$('.en__field--lastName').addClass( 'col-lg-12 col-md-12' );
+$('.en__field--phoneNumber').addClass( 'col-lg-12 col-md-12' );
+$('.en__field--city').addClass( 'col-lg-12 col-md-12' );
+$('.en__field--country').addClass( 'col-lg-12 col-md-12' );
+$('.en__field--city, .en__field--country').addClass( 'col-lg-12 col-md-12' );
+$('.en__submit').addClass( 'col-lg-12 col-md-12' );
+$('.en__component--formblock').addClass( 'row justify-content-md-center' );
+$('.en__submit button').addClass( 'btn btn-primary btn-medium subscriber-btn' );
+$('#en__field_supporter_emailAddress').addClass( 'form-control' );
+$('.en__field__input--select').addClass( 'custom-select col' );
+$('form').addClass( 'happy-point-block-wrap' );
+$('.en__field__element--select').removeClass( 'en__field__element--select' );
+$('.en__field__input--text').removeClass( 'en__field__input--text' );
+$('.en__field__element--text').removeClass( 'en__field__element--text' );
+$('.en__field__input--checkbox').prop('checked', true).hide();
+$('.en__field--text').each(function(){
+	var input = $(this).find('input');
+	var label = $(this).find('label');
+	var labelText = label.text();
+	input.attr('placeholder', labelText);
+});
+</script>
+
+<script>
+    var countryStateInfo = {
+	"Cameroon": {
+		"Buea": {
+			"": ["781005"],
+			"" : ["781030", "781030"]
+		},
+		"Douala": {
+			"" : ["390011", "390020"],
+			"" : ["395006", "395002"]
+		},
+		"Yaoundé": {
+			"" : ["390011", "390020"],
+			"" : ["395006", "395002"]
+		},
+		"Other": {
+			"" : ["390011", "390020"],
+			"" : ["395006", "395002"]
+		}
+	},
+	"Democratic Republic of Congo": {
+		"Kinshasa": {
+			"": ["90001", "90002", "90003", "90004"],
+			"": ["92093", "92101"]
+		},
+		"Matadi": {
+			"": ["75201", "75202"],
+			"": ["73301", "73344"]
+		},
+		"Other": {
+			"" : ["390011", "390020"],
+			"" : ["395006", "395002"]
+		}
+	},
+	"Kenya": {
+		"Nairobi": {
+			"": ["90001", "90002", "90003", "90004"],
+			"": ["92093", "92101"]
+		},
+		"Other": {
+			"" : ["390011", "390020"],
+			"" : ["395006", "395002"]
+		}
+	},
+	"Senegal": {
+		"Dakar": {
+			"": ["90001", "90002", "90003", "90004"],
+			"": ["92093", "92101"]
+		},
+		"St. Louis": {
+			"": ["75201", "75202"],
+			"": ["73301", "73344"]
+		},
+		"Ziguinchor": {
+			"": ["75201", "75202"],
+			"": ["73301", "73344"]
+		},
+		"Other": {
+			"" : ["390011", "390020"],
+			"" : ["395006", "395002"]
+		}
+	},
+	"South Africa": {
+		"Cape Town": {
+			"": ["90001", "90002", "90003", "90004"],
+			"": ["92093", "92101"]
+		},
+		"Durban": {
+			"": ["75201", "75202"],
+			"": ["73301", "73344"]
+		},
+		"Johannesburg": {
+			"": ["75201", "75202"],
+			"": ["73301", "73344"]
+		},
+		"Other": {
+			"" : ["390011", "390020"],
+			"" : ["395006", "395002"]
+		}
+	},
+	"Other": {
+		"Other": {
+			"": ["90001", "90002", "90003", "90004"],
+			"": ["92093", "92101"]
+		}
+	}
+}
+
+
+
+window.onload = function () {
+	
+	//Get html elements
+	var countySel = document.getElementById("en__field_supporter_country");
+	var stateSel = document.getElementById("en__field_supporter_city");	
+	
+	//Load countries
+	for (var country in countryStateInfo) {
+		countySel.options[countySel.options.length] = new Option(country, country);
+	}
+	
+	//County Changed
+	countySel.onchange = function () {
+		 
+		 stateSel.length = 1; // remove all options bar first
+		 
+		 if (this.selectedIndex < 1)
+			 return; // done
+		 
+		 for (var state in countryStateInfo[this.value]) {
+			 stateSel.options[stateSel.options.length] = new Option(state, state);
+		 }
+	}
+	
+	//State Changed
+	stateSel.onchange = function () {		 
+		 
+		 citySel.length = 1; // remove all options bar first
+		 zipSel.length = 1; // remove all options bar first
+		 
+		 if (this.selectedIndex < 1)
+			 return; // done
+		 
+		 for (var city in countryStateInfo[countySel.value][this.value]) {
+			 citySel.options[citySel.options.length] = new Option(city, city);
+		 }
+	}
+}
+</script>
+
+</body>
+</html>
